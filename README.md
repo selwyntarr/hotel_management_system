@@ -4,6 +4,7 @@
 
 ### Setting Up Development Environments
 **Scripts (Windows):**
+
 Activate Environment
 ```
 .\\Scripts\Activate.ps1
