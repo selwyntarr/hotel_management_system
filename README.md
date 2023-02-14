@@ -17,7 +17,7 @@ Developing Back-end (Auto-Refresh)
 ```
 flask run
 ```
-Developing Front-end(Live-Reload)
+Developing Front-end (Live-Reload)
 ```
 python run.py
 ```
