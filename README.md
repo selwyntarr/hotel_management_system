@@ -13,3 +13,15 @@ Install Dependencies
 ```
 pip install dependencies.txt
 ```
+Developing Back-end (Auto-Refresh)
+```
+flask run
+```
+Developing Front-end(Live-Reload)
+```
+python run.py
+```
+or
+```
+python3 run.py
+```
